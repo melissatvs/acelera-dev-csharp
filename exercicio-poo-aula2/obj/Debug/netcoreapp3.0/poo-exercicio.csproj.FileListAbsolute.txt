@@ -1,0 +1,11 @@
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\bin\Debug\netcoreapp3.0\poo-exercicio.exe
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\bin\Debug\netcoreapp3.0\poo-exercicio.deps.json
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\bin\Debug\netcoreapp3.0\poo-exercicio.runtimeconfig.json
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\bin\Debug\netcoreapp3.0\poo-exercicio.runtimeconfig.dev.json
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\bin\Debug\netcoreapp3.0\poo-exercicio.dll
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\bin\Debug\netcoreapp3.0\poo-exercicio.pdb
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\obj\Debug\netcoreapp3.0\poo-exercicio.csprojAssemblyReference.cache
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\obj\Debug\netcoreapp3.0\poo-exercicio.AssemblyInfoInputs.cache
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\obj\Debug\netcoreapp3.0\poo-exercicio.AssemblyInfo.cs
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\obj\Debug\netcoreapp3.0\poo-exercicio.dll
+E:\Cursos\AceleraDev CSharp Women SP\semana 2\poo-exercicio\obj\Debug\netcoreapp3.0\poo-exercicio.pdb

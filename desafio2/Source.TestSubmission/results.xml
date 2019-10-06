@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="0.019" tests="9" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="9" failures="0" time="0.019">
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Use_Cesar_Cypher_When_Crypt(message: &quot;the quick brown fox jumps over the lazy dog&quot;, cypherMessage: &quot;wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj&quot;)" time="0.0100000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Not_Accept_Null_When_Decrypt" time="0.0020000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Convert_To_Lower_Case_When_Decrypt" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Not_Accept_Null_When_Crypt" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Keep_Numbers_Out_When_Crypt" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Convert_To_Lower_Case_When_Crypt" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Use_Cesar_Cypher_When_Decrypt(cypherMessage: &quot;wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj&quot;, message: &quot;the quick brown fox jumps over the lazy dog&quot;)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Ensure_Letter_Or_Number_When_Decrypt" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CesarCypherTest" name="Codenation.Challenge.CesarCypherTest.Should_Ensure_Letter_Or_Number_When_Crypt" time="0.0010000" />
+  </testsuite>
+</testsuites>

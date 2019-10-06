@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="0.045" tests="5" failures="2">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="5" failures="2" time="0.045">
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Is_NotFibonacci_Test" time="0.0090000" />
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Is_Fibonacci_Test" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Fibonacci_Membrers_Test" time="0.0320000">
+      <error message="Assert.Equal() Failure&#xD;&#xA;Expected: List&lt;Int32&gt; [0, 1, 1, 2, 3, ...]&#xD;&#xA;Actual:   List&lt;Int32&gt; [0, 1, 1, 2, 3, ...]">   at Codenation.Challenge.MathTest.Fibonacci_Membrers_Test() in C:\Users\melis\codenation\csharp-0\Source.TestSubmission\MathTest.cs:line 29</error>
+    </testcase>
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Fibonacci_Test" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Fibonacci_Membrer_Count_Test" time="0.0020000">
+      <error message="Assert.True() Failure&#xD;&#xA;Expected: True&#xD;&#xA;Actual:   False">   at Codenation.Challenge.MathTest.Fibonacci_Membrer_Count_Test() in C:\Users\melis\codenation\csharp-0\Source.TestSubmission\MathTest.cs:line 21</error>
+    </testcase>
+  </testsuite>
+</testsuites>
