@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="0.033" tests="2" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="2" failures="0" time="0.033">
+    <testcase classname="Codenation.Challenge.CountryTest" name="Codenation.Challenge.CountryTest.Should_Return_10_Itens_When_Get_Top_10_States" time="0.0200000" />
+    <testcase classname="Codenation.Challenge.CountryTest" name="Codenation.Challenge.CountryTest.Should_Return_Top_10_States_By_Area" time="0.0130000" />
+  </testsuite>
+</testsuites>
