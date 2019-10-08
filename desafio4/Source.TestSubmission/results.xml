@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="0.068" tests="25" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="25" failures="0" time="0.068">
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Best_Team_Player(skills: &quot;10,22,24,3,24&quot;, bestPlayerId: 2)" time="0.0190000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Best_Team_Player(skills: &quot;10,20,300,40,50&quot;, bestPlayerId: 2)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Best_Team_Player(skills: &quot;50,240,3,1,50&quot;, bestPlayerId: 1)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Be_Unique_Ids_For_Teams" time="0.0020000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Right_Color_When_Get_Visitor_Shirt_Color(teamColors: &quot;Azul;Vermelho&quot;, visitorColors: &quot;Azul;Vermelho&quot;, visitorMatchColor: &quot;Vermelho&quot;)" time="0.0020000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Right_Color_When_Get_Visitor_Shirt_Color(teamColors: &quot;Azul;Vermelho&quot;, visitorColors: &quot;Azul;Amarelo&quot;, visitorMatchColor: &quot;Amarelo&quot;)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Right_Color_When_Get_Visitor_Shirt_Color(teamColors: &quot;Azul;Vermelho&quot;, visitorColors: &quot;Amarelo;Laranja&quot;, visitorMatchColor: &quot;Amarelo&quot;)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Ensure_Right_Value_When_Get_Team_Name" time="0.0020000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Be_Valid_Team_When_Get_Best_Team_Player" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Right_Salary_When_Get_Player_Salary" time="0.0050000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Sort_All_Players_By_Skill_When_Get_Top_Players(skillsMap: &quot;7,50,33,2,70|10,240,73,1,50|17,220,70,14,5&quot;, top: 10, topPlayersIds: &quot;7,12,8,5,13,2,10,3,11,14&quot;)" time="0.0150000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Sort_All_Players_By_Skill_When_Get_Top_Players(skillsMap: &quot;7,24,33,2,70|10,240,73,1,50|17,220,23,14,5&quot;, top: 5, topPlayersIds: &quot;7,12,8,5,10&quot;)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Higher_Salary_Player(salaries: &quot;1509.10;200.20;3300;450020.11;50.0&quot;, highSalaryPlayerId: 3)" time="0.0050000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Higher_Salary_Player(salaries: &quot;15090;45000;3300;2000;5000&quot;, highSalaryPlayerId: 1)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Be_Valid_Player_When_Set_Team_Captain" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Older_Team_Player(ages: &quot;17,22,50,33,50&quot;, olderPlayerId: 2)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Older_Team_Player(ages: &quot;50,24,13,15,16&quot;, olderPlayerId: 0)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Choose_Older_Team_Player(ages: &quot;15,20,33,11,50&quot;, olderPlayerId: 4)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Ensure_Sort_Order_When_Get_Teams(teamsIds: &quot;301,781,397,882,121,344,463,688,908,547&quot;)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Ensure_Sort_Order_When_Get_Teams(teamsIds: &quot;51,22,23,42,5,1&quot;)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Ensure_Sort_Order_When_Get_Team_Players" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Be_Valid_Team_When_Get_Team_Players" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Be_Valid_Team_When_Get_Older_Player" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Be_Valid_Team_When_Get_Higher_Salary_Player" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.SoccerTeamsManagerTest" name="Codenation.Challenge.SoccerTeamsManagerTest.Should_Be_Valid_Captain_When_Get_Team_Captain" time="0.0010000" />
+  </testsuite>
+</testsuites>
