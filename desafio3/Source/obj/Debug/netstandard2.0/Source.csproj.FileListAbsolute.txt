@@ -6,3 +6,11 @@ C:\Users\melis\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.Assemb
 C:\Users\melis\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
 C:\Users\melis\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.dll
 C:\Users\melis\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.pdb
+E:\GitHub\acelera-dev-csharp\desafio3\Source\bin\Debug\netstandard2.0\Source.deps.json
+E:\GitHub\acelera-dev-csharp\desafio3\Source\bin\Debug\netstandard2.0\Source.dll
+E:\GitHub\acelera-dev-csharp\desafio3\Source\bin\Debug\netstandard2.0\Source.pdb
+E:\GitHub\acelera-dev-csharp\desafio3\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+E:\GitHub\acelera-dev-csharp\desafio3\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+E:\GitHub\acelera-dev-csharp\desafio3\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+E:\GitHub\acelera-dev-csharp\desafio3\Source\obj\Debug\netstandard2.0\Source.dll
+E:\GitHub\acelera-dev-csharp\desafio3\Source\obj\Debug\netstandard2.0\Source.pdb

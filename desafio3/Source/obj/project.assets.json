@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melis\\codenation\\csharp-3\\Source\\Source.csproj",
+      "projectUniqueName": "E:\\GitHub\\acelera-dev-csharp\\desafio3\\Source\\Source.csproj",
       "projectName": "Source",
-      "projectPath": "C:\\Users\\melis\\codenation\\csharp-3\\Source\\Source.csproj",
+      "projectPath": "E:\\GitHub\\acelera-dev-csharp\\desafio3\\Source\\Source.csproj",
       "packagesPath": "C:\\Users\\melis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melis\\codenation\\csharp-3\\Source\\obj\\",
+      "outputPath": "E:\\GitHub\\acelera-dev-csharp\\desafio3\\Source\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melis\\AppData\\Roaming\\NuGet\\NuGet.Config",
