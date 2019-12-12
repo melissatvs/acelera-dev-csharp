@@ -1,0 +1,8 @@
+C:\Users\melis\codenation\csharp-6\Source\bin\Debug\netcoreapp2.2\Source.deps.json
+C:\Users\melis\codenation\csharp-6\Source\bin\Debug\netcoreapp2.2\Source.dll
+C:\Users\melis\codenation\csharp-6\Source\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Users\melis\codenation\csharp-6\Source\obj\Debug\netcoreapp2.2\Source.csprojAssemblyReference.cache
+C:\Users\melis\codenation\csharp-6\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfoInputs.cache
+C:\Users\melis\codenation\csharp-6\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfo.cs
+C:\Users\melis\codenation\csharp-6\Source\obj\Debug\netcoreapp2.2\Source.dll
+C:\Users\melis\codenation\csharp-6\Source\obj\Debug\netcoreapp2.2\Source.pdb

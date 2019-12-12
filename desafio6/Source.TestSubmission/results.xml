@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="0.064" tests="21" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="21" failures="0" time="0.064">
+    <testcase classname="Codenation.Challenge.CalculateFieldInterfaceTest" name="Codenation.Challenge.CalculateFieldInterfaceTest.Should_Has_Total_Method" time="0.0140000" />
+    <testcase classname="Codenation.Challenge.CalculateFieldInterfaceTest" name="Codenation.Challenge.CalculateFieldInterfaceTest.Should_Has_Right_Signature_For_Addition_Method" time="0.0060000" />
+    <testcase classname="Codenation.Challenge.CalculateFieldInterfaceTest" name="Codenation.Challenge.CalculateFieldInterfaceTest.Should_Has_Right_Signature_For_Total_Method" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CalculateFieldInterfaceTest" name="Codenation.Challenge.CalculateFieldInterfaceTest.Should_Has_Subtration_Method" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CalculateFieldInterfaceTest" name="Codenation.Challenge.CalculateFieldInterfaceTest.Should_Has_Right_Signature_For_Subtractio_Method" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CalculateFieldInterfaceTest" name="Codenation.Challenge.CalculateFieldInterfaceTest.Should_Has_Addition_Method" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.CalculateFieldInterfaceTest" name="Codenation.Challenge.CalculateFieldInterfaceTest.Should_Exists_The_Interface" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Total_When_Calculate_Add_And_Subtract_Attributes(add: -10, subtract: 20, attributeless: 10, expected: -30)" time="0.0190000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Total_When_Calculate_Add_And_Subtract_Attributes(add: 10, subtract: 10, attributeless: 10, expected: 0)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Total_When_Calculate_Add_And_Subtract_Attributes(add: -10, subtract: -10, attributeless: 10, expected: 0)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Total_When_Calculate_Add_And_Subtract_Attributes(add: 10, subtract: -10, attributeless: 10, expected: 20)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Zero_When_Class_Has_No_Attributes(add: 10, subtract: -10, attributeless: 10, expected: 0)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Zero_When_Class_Has_No_Attributes(add: -10, subtract: 20, attributeless: 10, expected: 0)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Zero_When_Class_Has_No_Attributes(add: -10, subtract: -20, attributeless: 10, expected: 0)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Zero_When_Class_Has_No_Attributes(add: 10, subtract: 20, attributeless: 10, expected: 0)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Implements_ICalculateField_Interface" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Exists_The_Class" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Subtraction_When_Calculate_Subtract_Attribute(add: 10, subtract: 10, attributeless: 10, expected: -10)" time="0.0080000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Subtraction_When_Calculate_Subtract_Attribute(add: 20, subtract: -20, attributeless: 10, expected: 20)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Addition_When_Calculate_Add_Attribute(add: 10, subtract: 20, attributeless: 10, expected: 10)" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.FieldCalculatorTest" name="Codenation.Challenge.FieldCalculatorTest.Should_Returns_Addition_When_Calculate_Add_Attribute(add: -20, subtract: 0, attributeless: 10, expected: -20)" time="0.0010000" />
+  </testsuite>
+</testsuites>

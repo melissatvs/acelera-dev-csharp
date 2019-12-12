@@ -1,0 +1,13 @@
+Execuá∆o de teste para C:\Users\melis\codenation\csharp-4\Source.TestSubmission\bin\Debug\netcoreapp2.2\Source.TestSubmission.dll(.NETCoreApp,Version=v2.2)
+Ferramenta de Linha de Comando de Execuá∆o de Teste da Microsoft (R) Vers∆o 16.3.0
+Copyright (c) Microsoft Corporation. Todos os direitos reservados.
+
+Iniciando execuá∆o de teste, espere...
+
+1 arquivos de teste no total corresponderam ao padr∆o especificado.
+Results File: C:\Users\melis\codenation\csharp-4\Source.TestSubmission\results.xml
+
+Execuá∆o de Teste Bem-sucedida.
+Total de testes: 11
+     Aprovados: 11
+Tempo total: 6,2174 Segundos

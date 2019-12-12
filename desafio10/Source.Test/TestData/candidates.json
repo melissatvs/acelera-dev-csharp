@@ -1,0 +1,142 @@
+[
+    {
+        "UserId": 1,
+        "AccelerationId": 1,
+        "CompanyId": 1,
+        "Status": 2,
+        "CreatedAt": "2019-06-10 18:10:43"
+    },
+    {
+        "UserId": 2,
+        "AccelerationId": 2,
+        "CompanyId": 2,
+        "Status": 1,
+        "CreatedAt": "2019-03-06 04:21:52"
+    },
+    {
+        "UserId": 3,
+        "AccelerationId": 3,
+        "CompanyId": 3,
+        "Status": 3,
+        "CreatedAt": "2018-09-04 08:52:21"
+    },
+    {
+        "UserId": 4,
+        "AccelerationId": 4,
+        "CompanyId": 4,
+        "Status": 2,
+        "CreatedAt": "2019-01-14 14:20:39"
+    },
+    {
+        "UserId": 5,
+        "AccelerationId": 1,
+        "CompanyId": 5,
+        "Status": 5,
+        "CreatedAt": "2019-08-11 17:31:33"
+    },
+    {
+        "UserId": 6,
+        "AccelerationId": 1,
+        "CompanyId": 6,
+        "Status": 3,
+        "CreatedAt": "2018-08-24 16:06:08"
+    },
+    {
+        "UserId": 7,
+        "AccelerationId": 1,
+        "CompanyId": 7,
+        "Status": 5,
+        "CreatedAt": "2018-09-01 04:21:00"
+    },
+    {
+        "UserId": 8,
+        "AccelerationId": 1,
+        "CompanyId": 8,
+        "Status": 3,
+        "CreatedAt": "2019-07-22 06:07:46"
+    },
+    {
+        "UserId": 9,
+        "AccelerationId": 1,
+        "CompanyId": 9,
+        "Status": 2,
+        "CreatedAt": "2019-04-10 17:32:35"
+    },
+    {
+        "UserId": 1,
+        "AccelerationId": 2,
+        "CompanyId": 1,
+        "Status": 2,
+        "CreatedAt": "2019-03-23 02:31:49"
+    },
+    {
+        "UserId": 1,
+        "AccelerationId": 3,
+        "CompanyId": 1,
+        "Status": 2,
+        "CreatedAt": "2018-10-20 21:16:17"
+    },
+    {
+        "UserId": 1,
+        "AccelerationId": 4,
+        "CompanyId": 1,
+        "Status": 1,
+        "CreatedAt": "2019-01-04 01:21:18"
+    },
+    {
+        "UserId": 2,
+        "AccelerationId": 3,
+        "CompanyId": 1,
+        "Status": 5,
+        "CreatedAt": "2019-01-11 12:51:23"
+    },
+    {
+        "UserId": 2,
+        "AccelerationId": 4,
+        "CompanyId": 1,
+        "Status": 5,
+        "CreatedAt": "2019-08-10 07:30:46"
+    },
+    {
+        "UserId": 3,
+        "AccelerationId": 3,
+        "CompanyId": 2,
+        "Status": 2,
+        "CreatedAt": "2018-08-23 20:06:53"
+    },
+    {
+        "UserId": 3,
+        "AccelerationId": 4,
+        "CompanyId": 2,
+        "Status": 2,
+        "CreatedAt": "2019-02-08 02:31:33"
+    },
+    {
+        "UserId": 5,
+        "AccelerationId": 2,
+        "CompanyId": 5,
+        "Status": 4,
+        "CreatedAt": "2019-02-05 15:06:35"
+    },
+    {
+        "UserId": 5,
+        "AccelerationId": 3,
+        "CompanyId": 5,
+        "Status": 2,
+        "CreatedAt": "2019-08-04 22:15:40"
+    },
+    {
+        "UserId": 6,
+        "AccelerationId": 2,
+        "CompanyId": 6,
+        "Status": 5,
+        "CreatedAt": "2018-10-27 09:14:21"
+    },
+    {
+        "UserId": 7,
+        "AccelerationId": 3,
+        "CompanyId": 7,
+        "Status": 1,
+        "CreatedAt": "2019-04-22 02:55:25"
+    }
+]

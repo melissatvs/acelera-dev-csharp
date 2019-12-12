@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1,
+        "Name": "Velvet Grass",
+        "Slug": "shuge1-gmcgauhy1",
+        "CreatedAt": "2019-05-13 00:58:05",
+        "ChallengeId": 2
+    },
+    {
+        "Id": 2,
+        "Name": "Progesterone",
+        "Slug": "tinkster2-sedsall2",
+        "CreatedAt": "2019-06-18 10:47:40",
+        "ChallengeId": 3
+    },
+    {
+        "Id": 3,
+        "Name": "Temazepam",
+        "Slug": "oantognetti4-bivashintsov4",
+        "CreatedAt": "2018-11-10 09:45:27",
+        "ChallengeId": 5
+    },
+    {
+        "Id": 4,
+        "Name": "Stool Softener",
+        "Slug": "cdishman9-mvinall9",
+        "CreatedAt": "2019-05-18 10:14:05",
+        "ChallengeId": 10
+    }
+]

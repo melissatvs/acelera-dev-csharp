@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "Name": "Lutra canadensis",
+        "Slug": "cmingaud0-celtun0",
+        "CreatedAt": "2019-04-16 13:11:18"
+    },
+    {
+        "Id": 2,
+        "Name": "Merops nubicus",
+        "Slug": "chicken1-iwhyard1",
+        "CreatedAt": "2019-05-23 13:05:49"
+    },
+    {
+        "Id": 3,
+        "Name": "Alligator mississippiensis",
+        "Slug": "mrackley2-apohling2",
+        "CreatedAt": "2018-09-02 11:06:17"
+    },
+    {
+        "Id": 4,
+        "Name": "Phacochoerus aethiopus",
+        "Slug": "adiclaudio3-ssculpher3",
+        "CreatedAt": "2019-01-01 21:14:36"
+    },
+    {
+        "Id": 5,
+        "Name": "Phalacrocorax brasilianus",
+        "Slug": "agobel4-mramiro4",
+        "CreatedAt": "2019-05-31 08:44:10"
+    },
+    {
+        "Id": 6,
+        "Name": "Tauraco porphyrelophus",
+        "Slug": "farrowsmith5-tchicotti5",
+        "CreatedAt": "2019-04-16 23:23:59"
+    },
+    {
+        "Id": 7,
+        "Name": "Naja sp.",
+        "Slug": "balvarado6-seagling6",
+        "CreatedAt": "2018-12-02 00:44:22"
+    },
+    {
+        "Id": 8,
+        "Name": "Equus burchelli",
+        "Slug": "hpilmer7-svanyashkin7",
+        "CreatedAt": "2018-11-11 22:46:26"
+    },
+    {
+        "Id": 9,
+        "Name": "Deroptyus accipitrinus",
+        "Slug": "sstreatfield8-rchilcotte8",
+        "CreatedAt": "2018-12-06 07:47:04"
+    },
+    {
+        "Id": 10,
+        "Name": "Choriotis kori",
+        "Slug": "dellingsworth9-gpointing9",
+        "CreatedAt": "2019-08-16 03:17:57"
+    }
+]

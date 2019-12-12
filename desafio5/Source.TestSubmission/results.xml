@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="4.474" tests="11" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="11" failures="0" time="4.474">
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Return_Right_Top_10_Players_By_Age" time="0.4750000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Should_Return_Right_Nationality_Distinct_Count" time="0.4650000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Return_20_Itens_When_Get_Top_Players" time="0.4320000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Return_Right_Top_20_Players" time="0.3740000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Should_Return_Right_Club_Distinct_Count" time="0.3940000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Return_Right_Age_Count_Map" time="0.4250000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Be_16_The_Minimum_Age_In_Get_Age_Count_Map" time="0.3830000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Return_10_Itens_When_Get_Top_Players_By_Age" time="0.3630000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Be_47_The_Maximum_Age_When_Get_Age_Count_Map" time="0.3680000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Return_10_Itens_When_Get_Top_Players_By_Release_Clause" time="0.4110000" />
+    <testcase classname="Codenation.Challenge.FIFACupStatsTest" name="Codenation.Challenge.FIFACupStatsTest.Shoud_Return_Right_Top_10_Players_By_Release_Clause" time="0.3840000" />
+  </testsuite>
+</testsuites>

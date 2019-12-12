@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Codenation.Challenge</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="data.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>      
+  </ItemGroup>
+
+</Project>
