@@ -7,5 +7,6 @@
  * [Desafio 4 - Backend para gerenciar times de futebol](desafio4)
  * [Desafio 5 - Processe dados dos jogadores do FIFA© 2017](desafio5)
  * [Desafio 6 - Utilitário - Calculadora de Campos de Classe](desafio6)
+ * [Desafio 7 - Criando Entidades de Banco de Dados com C#](desafio7)
  
  * [Exercícios da Aula 2 - POO](exercicio-poo-aula2)

@@ -1,0 +1,16 @@
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\Source.deps.json
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\Source.runtimeconfig.json
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\Source.runtimeconfig.dev.json
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\Source.dll
+C:\Users\melis\codenation\csharp-7\Source\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.csprojAssemblyReference.cache
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.RazorAssemblyInfo.cache
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.RazorAssemblyInfo.cs
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfoInputs.cache
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfo.cs
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.RazorTargetAssemblyInfo.cache
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.dll
+C:\Users\melis\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.pdb
