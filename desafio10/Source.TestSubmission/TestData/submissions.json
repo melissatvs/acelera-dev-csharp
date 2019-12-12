@@ -1,0 +1,116 @@
+[
+    {
+        "UserId": 1,
+        "ChallengeId": 1,
+        "Score": 91.13,
+        "CreatedAt": "2019-08-08 07:34:56"
+    },
+    {
+        "UserId": 2,
+        "ChallengeId": 2,
+        "Score": 1.19,
+        "CreatedAt": "2019-08-05 05:28:00"
+    },
+    {
+        "UserId": 3,
+        "ChallengeId": 3,
+        "Score": 26.81,
+        "CreatedAt": "2019-03-20 11:22:20"
+    },
+    {
+        "UserId": 4,
+        "ChallengeId": 4,
+        "Score": 5.66,
+        "CreatedAt": "2019-06-01 20:50:30"
+    },
+    {
+        "UserId": 5,
+        "ChallengeId": 5,
+        "Score": 56.6,
+        "CreatedAt": "2019-05-22 13:17:08"
+    },
+    {
+        "UserId": 6,
+        "ChallengeId": 6,
+        "Score": 33.97,
+        "CreatedAt": "2018-12-12 18:25:55"
+    },
+    {
+        "UserId": 7,
+        "ChallengeId": 7,
+        "Score": 58.9,
+        "CreatedAt": "2018-10-03 02:06:59"
+    },
+    {
+        "UserId": 8,
+        "ChallengeId": 8,
+        "Score": 43.2,
+        "CreatedAt": "2019-01-03 10:20:24"
+    },
+    {
+        "UserId": 9,
+        "ChallengeId": 9,
+        "Score": 51.18,
+        "CreatedAt": "2018-12-18 16:00:43"
+    },
+    {
+        "UserId": 1,
+        "ChallengeId": 2,
+        "Score": 50.0,
+        "CreatedAt": "2019-04-02 11:41:42"
+    },
+    {
+        "UserId": 2,
+        "ChallengeId": 3,
+        "Score": 79.22,
+        "CreatedAt": "2018-09-01 22:13:02"
+    },
+    {
+        "UserId": 3,
+        "ChallengeId": 4,
+        "Score": 90.08,
+        "CreatedAt": "2018-08-27 20:26:12"
+    },
+    {
+        "UserId": 4,
+        "ChallengeId": 5,
+        "Score": 21.66,
+        "CreatedAt": "2019-06-23 03:35:40"
+    },
+    {
+        "UserId": 5,
+        "ChallengeId": 6,
+        "Score": 23.5,
+        "CreatedAt": "2018-09-01 14:07:08"
+    },
+    {
+        "UserId": 1,
+        "ChallengeId": 4,
+        "Score": 31.7,
+        "CreatedAt": "2019-03-20 01:37:53"
+    },
+    {
+        "UserId": 2,
+        "ChallengeId": 5,
+        "Score": 58.67,
+        "CreatedAt": "2018-12-25 18:25:58"
+    },
+    {
+        "UserId": 3,
+        "ChallengeId": 6,
+        "Score": 67.08,
+        "CreatedAt": "2019-01-23 04:22:01"
+    },
+    {
+        "UserId": 4,
+        "ChallengeId": 7,
+        "Score": 4.27,
+        "CreatedAt": "2018-11-13 05:17:34"
+    },
+    {
+        "UserId": 5,
+        "ChallengeId": 8,
+        "Score": 40.33,
+        "CreatedAt": "2019-04-28 06:38:22"
+    }
+]

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="3.804" tests="45" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="45" failures="0" time="3.804">
+    <testcase classname="Codenation.Challenge.AccelerationControllerTest" name="Codenation.Challenge.AccelerationControllerTest.Should_Be_Ok_When_Find_By_Company_Id(companyId: 1)" time="0.0560000" />
+    <testcase classname="Codenation.Challenge.AccelerationControllerTest" name="Codenation.Challenge.AccelerationControllerTest.Should_Be_Ok_When_Find_By_Company_Id(companyId: 2)" time="0.0300000" />
+    <testcase classname="Codenation.Challenge.AccelerationControllerTest" name="Codenation.Challenge.AccelerationControllerTest.Should_Be_Ok_When_Find_By_Id(id: 2)" time="0.0220000" />
+    <testcase classname="Codenation.Challenge.AccelerationControllerTest" name="Codenation.Challenge.AccelerationControllerTest.Should_Be_Ok_When_Find_By_Id(id: 1)" time="0.0160000" />
+    <testcase classname="Codenation.Challenge.AccelerationControllerTest" name="Codenation.Challenge.AccelerationControllerTest.Should_Be_Ok_When_Find_By_Id(id: 3)" time="0.0120000" />
+    <testcase classname="Codenation.Challenge.AccelerationControllerTest" name="Codenation.Challenge.AccelerationControllerTest.Should_Be_Ok_When_Post" time="0.0280000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Id(userId: 3, accelerationId: 3, companyId: 3)" time="0.5950000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Id(userId: 1, accelerationId: 1, companyId: 1)" time="0.0180000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Id(userId: 2, accelerationId: 2, companyId: 2)" time="0.0380000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Company_Id(companyId: 3)" time="0.0360000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Company_Id(companyId: 2)" time="0.0390000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Company_Id(companyId: 1)" time="0.0360000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Accelaration_Id(accelerationId: 3)" time="0.0320000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Accelaration_Id(accelerationId: 1)" time="0.0320000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Find_By_Accelaration_Id(accelerationId: 2)" time="0.0270000" />
+    <testcase classname="Codenation.Challenge.CandidateControllerTest" name="Codenation.Challenge.CandidateControllerTest.Should_Be_Ok_When_Post" time="0.0420000" />
+    <testcase classname="Codenation.Challenge.ChallengeControllerTest" name="Codenation.Challenge.ChallengeControllerTest.Should_Be_Ok_When_Find_By_Accelartion_And_User(accelerationId: 1, userId: 1)" time="0.6850000" />
+    <testcase classname="Codenation.Challenge.ChallengeControllerTest" name="Codenation.Challenge.ChallengeControllerTest.Should_Be_Ok_When_Find_By_Accelartion_And_User(accelerationId: 3, userId: 3)" time="0.0350000" />
+    <testcase classname="Codenation.Challenge.ChallengeControllerTest" name="Codenation.Challenge.ChallengeControllerTest.Should_Be_Ok_When_Find_By_Accelartion_And_User(accelerationId: 2, userId: 2)" time="0.0410000" />
+    <testcase classname="Codenation.Challenge.ChallengeControllerTest" name="Codenation.Challenge.ChallengeControllerTest.Should_Be_Ok_When_Post" time="0.0320000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_Ok_When_Post" time="0.6100000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_OK_When_Find_By_Accelaration_Id(accelerationId: 1)" time="0.0740000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_OK_When_Find_By_Accelaration_Id(accelerationId: 2)" time="0.0370000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_Ok_When_Find_By_User_Id(userId: 2)" time="0.0440000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_Ok_When_Find_By_User_Id(userId: 3)" time="0.0320000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_Ok_When_Find_By_User_Id(userId: 1)" time="0.0330000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_Ok_When_Find_By_Id(id: 1)" time="0.0200000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_Ok_When_Find_By_Id(id: 3)" time="0.0200000" />
+    <testcase classname="Codenation.Challenge.CompanyControllerTest" name="Codenation.Challenge.CompanyControllerTest.Should_Be_Ok_When_Find_By_Id(id: 2)" time="0.0360000" />
+    <testcase classname="Codenation.Challenge.SubmissionControllerTest" name="Codenation.Challenge.SubmissionControllerTest.Should_Be_Higher_Score_When_Get_By_Challenge_Id(challengeId: 2)" time="0.5770000" />
+    <testcase classname="Codenation.Challenge.SubmissionControllerTest" name="Codenation.Challenge.SubmissionControllerTest.Should_Be_Higher_Score_When_Get_By_Challenge_Id(challengeId: 1)" time="0.0260000" />
+    <testcase classname="Codenation.Challenge.SubmissionControllerTest" name="Codenation.Challenge.SubmissionControllerTest.Should_Be_Higher_Score_When_Get_By_Challenge_Id(challengeId: 3)" time="0.0220000" />
+    <testcase classname="Codenation.Challenge.SubmissionControllerTest" name="Codenation.Challenge.SubmissionControllerTest.Should_Be_Ok_When_Find_By_Challenge_And_Acceleration(challengeId: 2, accelerationId: 2)" time="0.0630000" />
+    <testcase classname="Codenation.Challenge.SubmissionControllerTest" name="Codenation.Challenge.SubmissionControllerTest.Should_Be_Ok_When_Find_By_Challenge_And_Acceleration(challengeId: 1, accelerationId: 1)" time="0.0440000" />
+    <testcase classname="Codenation.Challenge.SubmissionControllerTest" name="Codenation.Challenge.SubmissionControllerTest.Should_Be_Ok_When_Find_By_Challenge_And_Acceleration(challengeId: 3, accelerationId: 3)" time="0.0380000" />
+    <testcase classname="Codenation.Challenge.SubmissionControllerTest" name="Codenation.Challenge.SubmissionControllerTest.Should_Be_Ok_When_Post" time="0.0280000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_By_Id(id: 1)" time="0.0400000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_By_Id(id: 3)" time="0.0210000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_By_Id(id: 2)" time="0.0270000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_All_By_Company_Id(companyId: 2)" time="0.0360000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_All_By_Company_Id(companyId: 1)" time="0.0350000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_All_By_Company_Id(companyId: 3)" time="0.0220000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_OK_When_Post" time="0.0220000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_All_By_Accelaration_Name(accelerationName: &quot;Velvet Grass&quot;)" time="0.0250000" />
+    <testcase classname="Codenation.Challenge.UserControllerTest" name="Codenation.Challenge.UserControllerTest.Should_Be_Ok_When_Get_All_By_Accelaration_Name(accelerationName: &quot;Progesterone&quot;)" time="0.0200000" />
+  </testsuite>
+</testsuites>
