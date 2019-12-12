@@ -6,5 +6,6 @@
  * [Desafio 3 - Os dez maiores estados brasileiros em extensão territorial](desafio3)
  * [Desafio 4 - Backend para gerenciar times de futebol](desafio4)
  * [Desafio 5 - Processe dados dos jogadores do FIFA© 2017](desafio5)
+ * [Desafio 6 - Utilitário - Calculadora de Campos de Classe](desafio6)
  
  * [Exercícios da Aula 2 - POO](exercicio-poo-aula2)
